@@ -1,0 +1,19 @@
+{
+  "name": "RS SHL Attendance",
+  "short_name": "RS SHL",
+  "description": "Sistem Absensi Digital RS SHL berbasis Face Recognition",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0d9488",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "id"
+}
