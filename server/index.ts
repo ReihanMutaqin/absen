@@ -4,5 +4,5 @@ import app from "./boot";
 
 export default app.fetch;
 export const config = {
-  runtime: "nodejs20.x",
+  runtime: "nodejs",
 };
