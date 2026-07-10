@@ -21,6 +21,6 @@
       "@db/*": ["./db/*"]
     }
   },
-  "include": ["src", "api", "contracts", "db", "vite.config.ts"]
+  "include": ["src", "api", "server", "contracts", "db", "vite.config.ts"]
 }
 
